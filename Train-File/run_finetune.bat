@@ -1,0 +1,1 @@
+D:\\Profiles\\Huang-project\\WheatClass\\Release\\caffe.exe train --solver=D:\\Profiles\\Huang-project\\WheatClass\\Train-File\\Wheatnet\\solver.prototxt --weights=D:\\Profiles\\Huang-project\\WheatClass\\Train-File\\Wheatnet\\Wheatnet.caffemodel

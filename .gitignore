@@ -1,0 +1,18 @@
+##ignore this file##
+/Preproccess/
+/Release/
+/Test-File/img/test0/
+/Test-File/img/test1/
+/Test-File/WFFN/predict_result_txt/
+/Test-File/WFFN/snapshot/
+/Test-File/Wheatnet/predict_result_txt/
+/Test-File/Wheatnet/snapshot/
+/Train-File/img/
+/Train-File/WFFN_img/
+/Train-File/Wheatnet_img/
+/Train-File/WFFN/snapshot/
+/Train-File/Wheatnet/snapshot/
+/Train-File/WFFN/WFFN.caffemodel
+/Train-File/Wheatnet/Wheatnet.caffemodel
+/OtherNets/RACNN/RA_CNN.caffemodel
+/OtherNets/resnet18/

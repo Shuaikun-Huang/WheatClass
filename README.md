@@ -12,7 +12,7 @@ CNN Based On Caffe -- 对小麦的分类识别。
 其他网络：resnet-18_1.caffemodel文件是修改了layer层的名字，但各层权重未变，当使用两层resnet18时，加载两个caffemodel即可，两个模型以逗号隔开。
 ## GenPng
 训练过程可视化，将caffe生成的log文件可视化出来，效果如下  
-![](https://raw.githubusercontent.com/Shuaikun-Huang/Caffe/master/GenPng/net3/net3.png  "net3")  
+![WFFN](https://raw.githubusercontent.com/Shuaikun-Huang/WheatClass/master/GenPng/WFFN/WFFN.png  "WFFN")  
 使用方法：cmd下执行  
 ``` python parse_log.py yourlogname.log .\ ```  
 上面执行完后，会生成一个test和一个train文件，查看这两个文件，并修改gen_pic.py中对应的key值，让其对应。最后cmd下接着运行  
